@@ -1,0 +1,23 @@
+{
+  "name": "openai-dialogflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^5.9.0",
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "dialogflow-fulfillment": "^0.6.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "ngrok": "^5.0.0-beta.2",
+    "openai": "^3.3.0",
+    "twilio": "^4.14.1"
+  }
+}
